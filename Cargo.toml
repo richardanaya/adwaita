@@ -1,0 +1,11 @@
+[package]
+name = "adwaita"
+version = "0.0.0"
+authors = ["Richard Anaya <richard.anaya@gmail.com>"]
+edition = "2018"
+license = "MIT"
+description = "Rust bindings for the libadwaita library"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
